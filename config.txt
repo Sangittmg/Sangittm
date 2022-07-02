@@ -1,1 +1,2 @@
-{"ip":"5legendssmp.aternos.me","name":"afkbro","port":"1382
+{"ip":"5legendssmp.aternos.me
+","name":"afkbro","port":"13827"}
